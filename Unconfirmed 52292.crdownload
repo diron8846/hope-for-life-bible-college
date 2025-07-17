@@ -1,0 +1,30 @@
+// Static teacher data for GitHub Pages deployment
+export const teachersData = [
+  {
+    id: 1,
+    name: "Ev. Stanley George",
+    title: "Senior Pastor",
+    qualifications: "Ph.D. in Theology, M.Div. Biblical Studies",
+    description: "Specializes in Old Testament studies and pastoral care with 15+ years of ministry experience.",
+    imageUrl: "./attached_assets/Ev.Stanley George_1752730221152.jpeg",
+    rating: 5
+  },
+  {
+    id: 2,
+    name: "Pastor Jose Mathew",
+    title: "Associate Pastor",
+    qualifications: "M.A. Biblical Counseling, B.Th. Ministry",
+    description: "Expert in ministry and biblical counseling with a heart for discipleship.",
+    imageUrl: "./attached_assets/Pastor Jose Mathew_1752730221153.jpg",
+    rating: 5
+  },
+  {
+    id: 3,
+    name: "Ev. Ronald Maina",
+    title: "Youth Pastor",
+    qualifications: "M.Div. Youth Ministry, B.A. Biblical Studies",
+    description: "Passionate about reaching the next generation with dynamic teaching and mentorship.",
+    imageUrl: "./attached_assets/Ev.Ronald Maina_1752730221153.jpg",
+    rating: 5
+  }
+];
